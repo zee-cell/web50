@@ -13,6 +13,6 @@
     background: green;
 }
 input[name='q']{
-    border-radius: 50% 50% 50% 50%;
+    border-radius: 30% 50% 30% 30%;
     padding: 1rem;
 }
