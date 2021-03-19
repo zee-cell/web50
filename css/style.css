@@ -4,10 +4,11 @@
 .container{
     display: flex;
     justfy-content: center;
-    align-items: center;
+   
 }
 .google-img{
     max-height: 100%;
+    align-self: center;
 }
 input[name='q']{
     border-radius: 50% 50% 50% 50%;
