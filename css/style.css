@@ -3,7 +3,7 @@
 
 .container{
     display: flex;
-    align-content: center;
+    justfy-content: center;
     align-items: center;
 }
 .google-img{
