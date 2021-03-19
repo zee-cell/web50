@@ -1,0 +1,14 @@
+
+
+
+.container{
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+.google-img{
+    max-height: 100%;
+}
+input[name='q']{
+    border-radius: 50% 50% 50% 50%;
+}
