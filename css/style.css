@@ -4,6 +4,7 @@
 .container{
     display: flex;
     justfy-content: center;
+    background: black;
    
 }
 .google-img{
