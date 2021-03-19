@@ -11,8 +11,9 @@
     max-height: 100%;
     align-self: center;
     background: green;
+    margin: auto;
 }
 input[name='q']{
-    border-radius: 
+    margin: auto;
   
 }
